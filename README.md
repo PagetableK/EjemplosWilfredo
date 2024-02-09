@@ -1,4 +1,4 @@
-# EjerciciosWilfredo
+# EjemplosWilfredo
 DROP DATABASE DBEjemplo;
 
 CREATE DATABASE DBEjemplo;
